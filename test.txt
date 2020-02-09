@@ -1,0 +1,11 @@
+import Small_JAVA.lang;
+public class_SJ CAB
+{
+    string_SJ a,b;
+    int_SJ c,d;
+    float_SJ e,s;
+    main_SJ
+    {
+
+    }
+}

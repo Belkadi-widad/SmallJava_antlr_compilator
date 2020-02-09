@@ -1,0 +1,17 @@
+public class_SJ CAB
+{
+    string_SJ a,b;
+    int_SJ c,d,d;
+    float_SJ e,s,a;
+    main_SJ
+    {
+         In_SJ("%f %d %s",e,c,a);
+         Out_SJ("aaaa %f  AdAfff %d 12aaa %s  aaaa",c,c,a);
+         e=5;
+         s=5;
+         c=11/(e-s);
+         e=s+10/e*0;
+         d=0;
+
+    }
+}

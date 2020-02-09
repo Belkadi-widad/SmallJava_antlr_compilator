@@ -1,0 +1,33 @@
+import Small_Java.lang;
+import Small_Java.io;
+
+public class_SJ CAB
+{
+    string_SJ a,b;
+    int_SJ c,d;
+    float_SJ e,s;
+    main_SJ
+    {
+         b:="bbb";
+         d:=14;
+         e:=13.5;
+         e:=d/2+2*5;
+         In_SJ("%f %d %s",e,c,a);
+         Out_SJ("aaaa %d  AdAfff %d 12aaa %s  aaaa",c,c,a);
+         Out_SJ("Bonjour");
+         Out_SJ("%d %d  %s  ",c,c,a);
+         s := (d-12)*e/5-14.5*a;
+         Si ( !(a) ) Alors
+         {
+            c:=0;
+         }
+         Sinon
+         {
+            c:=1+s*2-10;
+         }
+         Si ( c+5>= d*6 ) Alors
+         {
+              c:=s+5/2;
+         }
+    }
+}

@@ -1,0 +1,39 @@
+import Small_Java.lang;
+import Small_Java.io;
+
+public class_SJ CAB
+{
+    string_SJ a,b;
+    int_SJ c,d;
+    float_SJ e,s;
+    main_SJ
+    {
+         b:=d;
+         b:=12*10;
+         e:=a;
+         c:=e;
+         s:=d;
+         c:=d/10;
+
+         In_SJ("%f %d %s",a,e,d);
+         Out_SJ(" Incompatible numberString %f   %d  %s  ",a,b,a);
+         Out_SJ(" Incompatible numberString %s   %s   ",d,e);
+
+
+         Si ( d="aaa" ) Alors
+         {
+            c:=0;
+         }
+
+         Si ( d>=10 ) Alors
+                  {
+                     c:=0;
+                  }
+
+         Si ( d+e>=a ) Alors
+                           {
+                              c:=0;
+                           }
+
+    }
+}

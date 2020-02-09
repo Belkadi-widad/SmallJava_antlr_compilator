@@ -1,0 +1,105 @@
+import Small_Java.lang;
+import Small_Java.io;
+
+public class_SJ CAB
+{
+    string_SJ a,b;
+    int_SJ c,d;
+    float_SJ e,s;
+    main_SJ
+    {
+         Si ( !(a) & e=d) Alors
+         {
+            c:=0;
+         }
+         Sinon
+         {
+            c:=10;
+         }
+
+          Si ( !(b) | e=d) Alors
+          {
+                c:=0;
+          }
+          Sinon
+          {
+                c:=10;
+          }
+
+          Si ( !(a) & e=d | s>=10)  Alors
+                  {
+                     c:=0;
+                  }
+                  Sinon
+                  {
+                     c:=10;
+                  }
+           Si ( !(a) | e=d & s>=10)  Alors
+                            {
+                               c:=0;
+                            }
+                            Sinon
+                            {
+                               c:=10;
+                            }
+
+            Si ( !(a) | e=d | s>=10)  Alors
+                                       {
+                                          c:=0;
+                                       }
+                                       Sinon
+                                       {
+                                          c:=10;
+                                       }
+         Si ( !(a) & e=d & s>=10)  Alors
+                                    {
+                                       c:=0;
+                                    }
+                                    Sinon
+                                    {
+                                       c:=10;
+                                    }
+         Si ( !(a) & a!="aaaa"| e=d & s>=10)  Alors
+                                    {
+                                       c:=0;
+                                    }
+                                    Sinon
+                                    {
+                                       c:=10;
+                                    }
+
+            Si ( !(a)& a!="aaaa"| e=d | s>=10)  Alors
+                                        {
+                                           c:=0;
+                                        }
+                                        Sinon
+                                        {
+                                           c:=10;
+                                        }
+             Si ( !(a) | a!="aaaa"| e=d & s>=10)  Alors
+                                         {
+                                            c:=0;
+                                         }
+                                         Sinon
+                                         {
+                                            c:=10;
+                                         }
+                    Si ( !(a) & a!="aaaa"& e=d | s>=10)  Alors
+                                                {
+                                                   c:=0;
+                                                }
+                                                Sinon
+                                                {
+                                                   c:=10;
+                                                }
+                    Si ( !(a) | a!="aaaa"& e=d | s>=10)  Alors
+                                                {
+                                                   c:=0;
+                                                }
+                                                Sinon
+                                                {
+                                                   c:=10;
+                                                }
+    }
+
+}
