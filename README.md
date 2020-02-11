@@ -1,6 +1,6 @@
 # SmallJava_antlr_compilator
 
-A compilator made by ANother Tool for Language Recognition (antlr) in Java for the SmallJava  . 
+A compilator made by ANother Tool for Language Recognition (antlr) in Java for the SmallJava in the environment IntelliJ IDEA Community Edition 2019.3.1 x64 . 
 The goals of this project are  : 
 
 - build the associate grammar for the SmallJava langage . 
